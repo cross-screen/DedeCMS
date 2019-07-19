@@ -1,0 +1,17 @@
+修改文件不多，都是必须要改动到的文件，如果你对后台代码没有任何改动可以直接替换 （保留良好的习惯，替换之前先备份）
+
+
+修改文件
+
+dede/templets/login.htm
+
+dede/css/login.css
+
+dede/css/base.css
+
+dede/css/indexbody.css
+
+dede/css/frame.css
+
+dede/js/frame.js
+
