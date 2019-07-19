@@ -7,6 +7,14 @@
 
 本着最小的改动去解决基本的诉求，加上织梦后台采用了大量的iframe导致了跨屏适配的难度，你不要期许它像APP一样美观、使用起来流畅，但它很实用，可以解决你在移动端下操作的基本诉求。
 
+截图
+-----------------
+![image](https://github.com/cross-screen/DedeCMS/blob/master/screenshots/dedecms1.png)
+![image](https://github.com/cross-screen/DedeCMS/blob/master/screenshots/dedecms2.png)
+![image](https://github.com/cross-screen/DedeCMS/blob/master/screenshots/dedecms3.png)
+![image](https://github.com/cross-screen/DedeCMS/blob/master/screenshots/dedecms4.png)
+![image](https://github.com/cross-screen/DedeCMS/blob/master/screenshots/dedecms5.png)
+
 特点
 -----------------
 
@@ -24,10 +32,6 @@
 希望改动小，不触及核心代码
 
 希望风格统一
-
-截图
------------------
-
 
 
 使用方法
